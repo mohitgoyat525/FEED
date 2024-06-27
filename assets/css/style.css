@@ -530,7 +530,18 @@
     opacity: 60%;
     margin-left: 8px;
 }
-
+.modal-header{
+    border-bottom: none;
+}
+.modal-footer{
+    border-top:none;
+}
+.modal-title{
+    padding-left: 22px;
+}
+.pl-22{
+    margin-left: 22px;
+}
 .sec-3 {
     border-radius: 30px;
     box-shadow: 0px 8px 35px 0px #0000001A;
@@ -833,5 +844,8 @@
 @media (max-width:1200px) {
     .Dictumst {
             font-size: 13px;
+        }
+        .pl-22 {
+            margin-left: 2px;
         }
 }
