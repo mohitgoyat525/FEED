@@ -127,7 +127,8 @@
     line-height: 18px;
     text-align: left;
     color: #666666;
-    padding-left: 13px;
+    padding-left: 12px;
+    padding-right: 27px;
 
 }
 
@@ -765,6 +766,7 @@
     .logo1 {
         width: 70px;
     }
+ 
 }
 
 
