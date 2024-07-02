@@ -576,6 +576,9 @@
   cursor: pointer;
   width: fit-content;
 }
+.col-3-text:hover{
+  text-decoration: underline;
+}
 
 .gall-ry {
   font-family: "Poppins", sans-serif;
